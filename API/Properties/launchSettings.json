@@ -19,16 +19,16 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "https": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": false,
-      "launchUrl": "weatherforecast",
-      "applicationUrl": "https://localhost:6000;http://localhost:6001",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
+    //"https": {
+    //  "commandName": "Project",
+    //  "dotnetRunMessages": true,
+    //  "launchBrowser": false,
+    //  "launchUrl": "weatherforecast",
+    //  "applicationUrl": "https://localhost:6000;http://localhost:6001",
+    //  "environmentVariables": {
+    //    "ASPNETCORE_ENVIRONMENT": "Development"
+    //  }
+    //},
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
